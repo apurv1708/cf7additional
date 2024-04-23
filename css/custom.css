@@ -1,0 +1,4 @@
+/* Admin Notice  */
+.notice, div.error, div.updated {
+    padding: 12px 12px;
+}
